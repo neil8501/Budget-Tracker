@@ -1,7 +1,5 @@
 # **Budget Tracker - Full Stack Application**
 
-### **Live Demo**: [Budget Tracker Full Stack](https://budget-tracker-full-stack.netlify.app/)
-
 ---
 
 ## **Overview**
